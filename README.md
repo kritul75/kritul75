@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Kritul Verma
 
-🚀 Full-Stack Developer | MERN | Generative AI | Backend-Oriented  
+🚀 Full-Stack AI Developer | Asp.NET | Angular | MERN | Generative AI | Backend-Oriented  
 💼 Software Engineer at Capgemini  
 🎯 Building scalable web apps
 
